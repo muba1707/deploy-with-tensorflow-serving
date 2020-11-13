@@ -1,5 +1,5 @@
 ## Deploy your deep learning models using TensorFlow serving 
-- Find all the instruction on how to deploy [here](https://www.tensorflow.org/tfx/serving/docker) and [here]()
+- Find all the instruction on how to deploy [here](https://www.tensorflow.org/tfx/serving/docker) and [here](https://youtu.be/P4lfmClTSsc)
 
 ## Environment
 - Platform: Python 3
